@@ -1,23 +1,41 @@
-GreenDen 🌿
-Project Overview
+🌿 GreenDen - Plant Store Website
 
-GreenDen is a responsive plant shopping website developed using HTML and Tailwind CSS. The website provides users with a clean and modern interface to explore a variety of indoor, outdoor, and artificial plants. The project demonstrates responsive web design principles and the effective use of Tailwind CSS utility classes.
+GreenDen is a responsive plant store website built using HTML and Tailwind CSS. The project provides a clean and modern user interface for browsing plant collections, learning plant care tips, and exploring featured products.
 
-Features
+🚀 Features
 Responsive Navigation Bar
-Attractive Hero Section
+Animated Sale Banner
+Modern Hero Section
+Plant Statistics Section
 About Us Section
-Feature Highlights
-Large Assortments
-Free & Fast Shipping
-24/7 Customer Support
-Best Seller Products Section
+Shop By Category
+Best Seller Products
+Product Discount Badges
+Add to Cart Buttons
+Plant Care Tips
 Customer Reviews
 Newsletter Subscription Form
-Footer with Company Information
-Separate Products Page
-Separate Contact Page
-Technologies Used
+Back-to-Top Button
+Responsive Footer
+🛠️ Technologies Used
 HTML5
 Tailwind CSS
+Heroicons SVG Icons
 Responsive Web Design
+📂 Project Structure
+GreenDen/
+│
+├── index.html
+├── product.html
+├── contact.html
+├── README.md
+└── images/
+🌐 Live Demo
+
+Add your GitHub Pages link here.
+
+👩‍💻 Author
+
+Sangeetha
+
+Created as part of a Front-End Web Development project using HTML and Tailwind CSS.
